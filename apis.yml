@@ -1,8 +1,25 @@
 aid: rimsys
 name: Rimsys
-description: 'Rimsys is a company surfaced as a portfolio company of bessemer-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: vertical-software. This profile is a
-  lead awaiting the enrichment pipeline.'
+description: 'Rimsys is a Regulatory Information Management (RIM) platform purpose-built for medical
+  device and MedTech manufacturers. It centralizes regulatory submissions, global product registrations,
+  Unique Device Identification (UDI) management, standards and GSPR maintenance, regulatory intelligence,
+  impact assessments, and market-access operations in a single system of record. Rimsys exposes
+  enterprise APIs and an event-driven change-data-capture layer (Rimsys Connect) to integrate
+  regulatory data with PLM, ERP, QMS, CRM, and BI tools, and provides direct EUDAMED/GUDID UDI
+  transmission. Developer documentation is published at docs.rimsys.io.'
+accessModel:
+  pricing: unknown
+  onboarding: self-serve
+  trial: false
+  try_now: false
+  public: false
+  label: Self-serve signup
+  confidence: medium
+  source:
+  - authentication
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/69c2116a63e9aeb725071337/6a3248583da864ec36ccd531_OG%20rimsys.png
 url: https://raw.githubusercontent.com/api-evangelist/rimsys/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,11 +29,36 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Vertical Software
-apis: []
+- Regulatory
+- Medical Devices
+- MedTech
+- Regulatory Information Management
+- UDI
+- Compliance
+- Life Sciences
+apis:
+- name: Rimsys API
+  description: 'Enterprise API for the Rimsys Regulatory Information Management platform, used to
+    integrate regulatory submissions, product registrations, UDI data, standards, and regulatory
+    intelligence with PLM, ERP, QMS, CRM, and BI systems. Documentation is published on the Rimsys
+    developer portal (Theneo-hosted); requests are authenticated with a bearer access token.'
+  humanURL: https://docs.rimsys.io/
+  baseURL: https://api.rimsys.io/
+  tags:
+  - Regulatory
+  - Medical Devices
+  - Integration
+  properties:
+  - type: Documentation
+    url: https://docs.rimsys.io/
+  - type: APIReference
+    url: https://docs.rimsys.io/
+  - type: Authentication
+    url: authentication/rimsys-authentication.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
@@ -25,3 +67,50 @@ maintainers:
 common:
 - type: Website
   url: https://www.rimsys.io/
+- type: DeveloperPortal
+  url: https://docs.rimsys.io/
+- type: Documentation
+  url: https://docs.rimsys.io/
+- type: APIReference
+  url: https://docs.rimsys.io/
+- type: Integrations
+  url: https://www.rimsys.io/integrations/integrations
+- type: Pricing
+  url: https://www.rimsys.io/pricing
+- type: Support
+  url: https://www.rimsys.io/support
+- type: Blog
+  url: https://www.rimsys.io/blogs
+- type: SignUp
+  url: https://www.rimsys.io/demo
+- type: Login
+  url: https://app.rimsys.io/
+- type: TermsOfService
+  url: https://www.rimsys.io/legal/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.rimsys.io/legal/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/Rimsys
+- type: LinkedIn
+  url: https://www.linkedin.com/company/rimsys/
+- type: StatusPage
+  url: https://status.rimsys.io/
+- type: TrustCenter
+  url: security/rimsys-trust-center.yml
+- type: Compliance
+  url: https://www.rimsys.io/security-compliance
+- type: LLMsTxt
+  url: llms/rimsys-llms.txt
+- type: Authentication
+  url: authentication/rimsys-authentication.yml
+- type: Lifecycle
+  url: lifecycle/rimsys-lifecycle.yml
+- type: Conformance
+  url: conformance/rimsys-conformance.yml
+- type: DomainSecurity
+  url: security/rimsys-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 7
+  pass: local-v1

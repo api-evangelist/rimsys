@@ -1,0 +1,21 @@
+generated: '2026-07-21'
+method: probed
+source: live probes of /.well-known/ paths on Rimsys hosts
+hosts:
+- host: https://www.rimsys.io
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /security.txt
+    status: 404
+- host: https://api.rimsys.io
+  documents:
+  - path: /.well-known/openid-configuration
+    status: 403
+- host: https://docs.rimsys.io
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+notes: >-
+  No published /.well-known/ discovery documents were served (no security.txt, no OIDC
+  discovery, no api-catalog, no ai-plugin.json). Absence recorded for idempotent re-runs.

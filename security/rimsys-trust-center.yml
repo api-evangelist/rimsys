@@ -1,0 +1,23 @@
+generated: '2026-07-21'
+method: searched
+source: https://trust.rimsys.io/
+url: https://trust.rimsys.io/
+platform: Vanta
+certifications:
+- SOC 2
+- ISO 27001
+- GDPR
+- 21 CFR Part 11
+compliance_page: https://www.rimsys.io/security-compliance
+evidence:
+- source: https://trust.rimsys.io/
+  keywords:
+  - trust center
+  - vanta
+- source: https://www.rimsys.io/security-compliance
+  keywords:
+  - soc 2
+  - iso 27001
+  - gdpr
+  - 21 cfr part 11
+  - penetration testing

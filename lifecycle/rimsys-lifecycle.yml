@@ -1,0 +1,18 @@
+generated: '2026-07-21'
+method: searched
+source: https://status.rimsys.io/
+status_page: https://status.rimsys.io/
+status_platform: Atlassian Statuspage
+versioning:
+  scheme: unknown
+  docs: https://docs.rimsys.io/
+deprecation:
+  policy_url: null
+  sunset_header: null
+sla:
+  url: null
+notes: >-
+  Rimsys operates a public status page on Atlassian Statuspage (status.rimsys.io). No public
+  API versioning or deprecation policy was found in the developer portal at capture time; no
+  OpenAPI was available to derive deprecated operations.
+deprecated_operations: []

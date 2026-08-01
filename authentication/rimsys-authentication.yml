@@ -1,0 +1,23 @@
+generated: '2026-07-21'
+method: searched
+source: https://docs.rimsys.io/
+docs: https://docs.rimsys.io/
+summary:
+  types:
+  - http
+  api_key_in: []
+  oauth2_flows: []
+  notes: >-
+    The Rimsys developer portal (Theneo-hosted) documents API requests authenticated with a
+    bearer access token supplied in the HTTP Authorization header (Authorization: Bearer
+    <accessToken>). No public OpenAPI specification was available for mechanical derivation;
+    this profile is captured from the published documentation and code samples.
+schemes:
+- name: bearerAuth
+  type: http
+  scheme: bearer
+  bearerFormat: access_token
+  description: 'Bearer access token passed in the Authorization header, per the Rimsys developer
+    portal code samples (Authorization: Bearer ${accessToken}).'
+  sources:
+  - https://docs.rimsys.io/

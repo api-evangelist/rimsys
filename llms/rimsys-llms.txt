@@ -1,0 +1,144 @@
+
+# Rimsys
+
+> Rimsys is a Regulatory Information Management platform for medical device and MedTech companies. It helps regulatory affairs teams manage submissions, product registrations, UDI, standards, regulatory intelligence, impact assessments, global market access, and compliance operations from one centralized system.
+
+## Core Platform
+
+- [Rimsys Platform](https://www.rimsys.io/products/rimsys-platform): Main overview of the Rimsys Regulatory Operations Platform for MedTech companies.
+- [Rimsys Capabilities](https://www.rimsys.io/products/rimsys-capabilities): Summary of Rimsys capabilities across regulatory intelligence, submissions, registrations, change management, and regulatory execution.
+- [Rimsys AI](https://www.rimsys.io/products/rimsys-ai): Explains how Rimsys applies AI to regulatory information management and regulatory operations workflows.
+- [Regulatory Intelligence Software](https://www.rimsys.io/products/intelligence): AI-powered regulatory intelligence software for monitoring global regulatory sources and turning insights into action.
+- [Rimsys Connect](https://www.rimsys.io/products/rimsys-connect): Real-time change data capture and data synchronization for connecting Rimsys with BI tools and enterprise systems.
+- [UDI Management Software](https://www.rimsys.io/products/udi-management-m2m-transmission): Product module for managing UDI data and database submissions alongside registrations and other regulatory activities.
+
+## Regulatory Operations Solutions
+
+- [Regulatory Submissions Management Software](https://www.rimsys.io/solutions/regulatory-submissions-software): Software for collaboratively authoring, managing, approving, and publishing medical device regulatory submissions.
+- [Medical Device Product Registration Software](https://www.rimsys.io/solutions/medical-device-product-registration): Global product registration tracking for medical devices, IVDs, and software as a medical device.
+- [Global Regulatory Compliance](https://www.rimsys.io/solutions/global-regulatory-compliance): Helps MedTech teams manage registrations, submissions, UDI, regulatory intelligence, and compliance operations in one platform.
+- [Medical Device Market Access Software](https://www.rimsys.io/solutions/new-market-entry): Supports planning, executing, and maintaining regulatory market entry for global medical device expansion.
+- [Regulatory Impact Assessment](https://www.rimsys.io/solutions/regulatory-impact-assessment): Connects regulatory intelligence to product data so teams can assess how regulatory changes affect products, markets, and submissions.
+- [Medical Device Standards and GSPR Management](https://www.rimsys.io/solutions/standards-essential-principles): Centralized management for global medical device standards, essential principles, and GSPR maintenance.
+- [UDI Compliance Software](https://www.rimsys.io/solutions/udi-global-compliance): Supports global UDI compliance workflows and medical device database submissions.
+
+## Integrations
+
+- [Enterprise Integrations](https://www.rimsys.io/integrations/integrations): Overview of how Rimsys connects regulatory, clinical, product, quality, and go-to-market data across the enterprise.
+- [EUDAMED and GUDID Integration](https://www.rimsys.io/integrations/eudamed-gudid): Integration for managing UDI data exchange with EUDAMED and GUDID.
+- [Analytics and BI Integration](https://www.rimsys.io/integrations/analytics-bi): Connects regulatory data to Power BI, Tableau, and enterprise BI tools for reporting, KPI alignment, and real-time decision-making.
+
+## Market Access and Regulatory Profiles
+
+- [Global Regulatory Market Access](https://www.rimsys.io/market-access): Market access hub for understanding medical device regulatory requirements by country and region.
+- [United States Regulatory Market Profile](https://www.rimsys.io/regulatory-market-profiles/united-states): Overview of U.S. medical device regulatory requirements, classifications, and submission pathways.
+- [European Union Regulatory Market Profile](https://www.rimsys.io/regulatory-market-profiles/european-union): Overview of EU medical device regulatory requirements, EU MDR, CE marking, and market access considerations.
+- [Canada Regulatory Market Profile](https://www.rimsys.io/regulatory-market-profiles/canada): Overview of Canadian medical device regulatory requirements and market access considerations.
+- [Australia Regulatory Market Profile](https://www.rimsys.io/regulatory-market-profiles/australia): Overview of Australian medical device regulatory requirements and compliance expectations.
+- [Brazil Regulatory Market Profile](https://www.rimsys.io/regulatory-market-profiles/brazil): Overview of Brazil medical device regulations and market requirements.
+- [China Regulatory Market Profile](https://www.rimsys.io/regulatory-market-profiles/china): Overview of China medical device regulatory requirements and UDI considerations.
+- [Saudi Arabia Regulatory Market Profile](https://www.rimsys.io/regulatory-market-profiles/saudi-arabia): Overview of Saudi Arabia medical device regulations and compliance requirements.
+
+## Regulatory Information Management Resources
+
+- [RIM 101: What Is Regulatory Information Management?](https://www.rimsys.io/blogs/rim-101-what-is-regulatory-information-management): Introductory guide explaining what RIM systems do for medical device regulatory teams.
+- [RIM for MedTech vs. RIM for Pharma](https://www.rimsys.io/blogs/rim-for-medtech-vs-rim-for-pharma): Explains why MedTech regulatory teams need RIM software designed for medical device operations rather than pharmaceutical workflows.
+- [RIM vs. ERP Software for Medical Device Companies](https://www.rimsys.io/blogs/rim-vs-erp-software-for-medical-device-companies): Compares RIM and ERP systems for medical device regulatory use cases.
+- [RIM vs. PLM Software for Medical Device Manufacturers](https://www.rimsys.io/blogs/rim-vs-plm-software-medical-device): Explains the difference between RIM software and PLM software for medical device manufacturers.
+- [PLM, eQMS, and RIM Systems for Medical Device Manufacturers](https://www.rimsys.io/blogs/plm-eqms-rim-systems-medical-device): Explains how PLM, eQMS, and RIM systems support medical device operations.
+- [Building a Business Case for a RIM System](https://www.rimsys.io/blogs/building-a-business-case-for-a-rim-system): Guide to building executive buy-in for RIM software investment.
+- [RIM Buyer’s Guide for MedTech Companies](https://www.rimsys.io/libraries/rim-buyers-guide-for-medtech-companies): Buyer’s guide for evaluating RIM systems for MedTech regulatory teams.
+- [RIM Readiness Checklist](https://www.rimsys.io/libraries/rim-readiness-checklist): Checklist for assessing whether an organization is ready to implement a RIM system.
+
+## FDA and U.S. Regulatory Guides
+
+- [FDA 510(k) Beginner’s Guide](https://www.rimsys.io/blogs/fda-510k-beginners-guide): Guide to FDA 510(k) submissions for medical device companies.
+- [The Beginner’s Guide to the FDA 510(k)](https://www.rimsys.io/libraries/the-fda-510k-beginners-guide): Detailed eBook covering FDA device oversight, 510(k) content, requirements, and timelines.
+- [FDA PMA Submission Process](https://www.rimsys.io/blogs/pma-submission-process-beginners-guide): Beginner’s guide to the FDA PMA submission process.
+- [The Beginner’s Guide to the FDA PMA Submission Process](https://www.rimsys.io/libraries/beginners-guide-fda-pma-submission-process): eBook explaining PMA submission types, contents, FDA interactions, QMS requirements, costs, and timelines.
+- [De Novo Classification Process](https://www.rimsys.io/blogs/de-novo-classification-process-a-beginners-guide): Beginner’s guide to the FDA De Novo request pathway.
+- [FDA eSTAR Program](https://www.rimsys.io/blogs/what-is-the-fda-estar-program): Overview of the FDA eSTAR program for interactive medical device submissions.
+- [21 CFR Part 11 for Regulatory Affairs Teams](https://www.rimsys.io/blogs/21-cfr-part-11-for-regulatory): Overview of 21 CFR Part 11 requirements for regulatory affairs teams.
+- [21 CFR Part 820 Overview](https://www.rimsys.io/blogs/an-overview-of-21-cfr-part-820): Explains FDA quality system regulation requirements for medical device manufacturers.
+- [21 CFR Part 812 Overview](https://www.rimsys.io/blogs/overview-21-cfr-part-812): Explains investigational device exemption requirements under 21 CFR Part 812.
+- [FDA Consensus Standards](https://www.rimsys.io/blogs/fda-consensus-standards): Explains FDA-recognized consensus standards and their role in medical device submissions.
+- [FDA Predicate Devices](https://www.rimsys.io/blogs/fda-predicate-devices): Explains the role of predicate devices in FDA submissions.
+- [FDA Databases](https://www.rimsys.io/blogs/fda-databases): Overview of FDA databases useful for medical device manufacturers.
+- [FDA Listed, Cleared, Approved, and Granted](https://www.rimsys.io/blogs/fda-listed-cleared-approved-granted): Explains key FDA status terms for medical devices.
+- [Class III Medical Devices in the United States](https://www.rimsys.io/blogs/class-iii-medical-devices-in-the-united-states): Overview of Class III medical device regulations in the United States.
+- [FDA Class II Medical Devices](https://www.rimsys.io/blogs/fda-class-ii-medical-devices): Overview of Class II medical devices and related regulatory processes.
+
+## EU MDR, IVDR, GSPR, and CE Marking Resources
+
+- [EU MDR Overview](https://www.rimsys.io/blogs/eu-mdr-overview): Overview of the European Union Medical Device Regulation and its impact on medical device companies.
+- [The Ultimate Guide to EU MDR and IVDR GSPR](https://www.rimsys.io/blogs/the-ultimate-guide-eu-mdr-gspr): Guide to EU MDR and IVDR general safety and performance requirements.
+- [The Ultimate Guide to EU MDR and IVDR GSPR Library Resource](https://www.rimsys.io/libraries/the-ultimate-guide-eu-mdr-gspr): Detailed resource comparing MDD and IVDD Annex 1 with MDR and IVDR Annex 1.
+- [CE Marking Guide for Medical Devices in the EU](https://www.rimsys.io/libraries/ce-marking-guide-for-medical-devices-in-the-eu): Guide to CE marking, technical documentation, and GSPR requirements for medical devices sold in the European Union.
+- [EUDAMED and UDI in Europe](https://www.rimsys.io/blogs/eudamed-and-udi-in-europe-an-overview): Explains EUDAMED and UDI requirements under the European regulatory framework.
+- [The Ultimate Guide to EU MDR and IVDR UDI](https://www.rimsys.io/libraries/the-ultimate-guide-to-the-eu-mdr-ivdr-udi): Guide to UDI and EUDAMED systems introduced under MDR and IVDR.
+- [EU MDR Transitional Period](https://www.rimsys.io/blogs/eu-mdr-transitional-period-to-be-extended): Explains MDR transition timing and certificate extension considerations.
+- [Introduction to Notified Bodies](https://www.rimsys.io/blogs/beginners-guide-to-notified-bodies): Explains the role of notified bodies in EU medical device and IVD market access.
+- [Post-Market Essentials](https://www.rimsys.io/libraries/medtech-post-market-essentials): Resource on MDR and IVDR post-market responsibilities for regulatory and quality teams.
+- [MDR and IVDR Lessons for Regulatory Strategy](https://www.rimsys.io/libraries/mdr-ivdr-lessons-for-regulatory-strategy): Insights on using MDR and IVDR lessons to improve regulatory strategy.
+
+## UDI and Device Identification Resources
+
+- [BUDI-DI: Basic UDI Explained](https://www.rimsys.io/blogs/budi-di-basic-udi-explained): Explains Basic UDI-DI and how it applies to medical device identification.
+- [GUDID Overview](https://www.rimsys.io/blogs/gudid-overview): Overview of FDA’s Global Unique Device Identification Database.
+- [Why UDI Is a Regulatory Concern](https://www.rimsys.io/libraries/why-udi-is-a-regulatory-concern): Webinar resource explaining UDI complexity and compliance risks across major markets.
+- [China UDI System and Database](https://www.rimsys.io/libraries/ebook-china-udi-system-and-database): Guide to China UDI and labeling requirements.
+- [China NMPA UDI System and Database](https://www.rimsys.io/blogs/ebook-china-udi-system-and-database): Blog guide to China NMPA UDI and labeling requirements.
+- [EUDAMED UDI-DI Template 2025](https://www.rimsys.io/libraries/eudamed-udi-di-template-2025): Template for collecting and structuring UDI data for EUDAMED submission.
+- [RAPS Ask an Expert: UDI](https://www.rimsys.io/libraries/raps-ask-an-expert-everything-you-need-to-know-about-udi): Expert Q&A resource covering UDI questions from the RAPS Regulatory Exchange.
+
+## Standards, Quality, and Compliance Resources
+
+- [An Introduction to Standards for MedTech Companies](https://www.rimsys.io/blogs/an-introduction-to-standards-for-medtech-companies): Explains what standards are, how they affect end users, and how MedTech companies can manage changing standards.
+- [Essential Principles](https://www.rimsys.io/blogs/essential-principles): Explains essential principles and how manufacturers prove compliance across required markets.
+- [Australian Essential Principles](https://www.rimsys.io/blogs/australian-essential-principles): Overview of Australia’s Essential Principles requirements for medical devices.
+- [IEC 62304: Standard for Medical Device Software](https://www.rimsys.io/blogs/iec-62304-standard-for-medical-device-software): Overview of IEC 62304 for medical device software lifecycle processes.
+- [Medical Device Audits](https://www.rimsys.io/blogs/medical-device-audits-preparation-and-responses): Guide to audit preparation and response for MedTech teams.
+- [Declarations of Conformity](https://www.rimsys.io/blogs/declarations-of-conformity): Explains declarations of conformity and where they are required.
+- [Medical Device Classification Primer](https://www.rimsys.io/blogs/a-primer-on-medical-device-classification): Explains medical device classification concepts across major regulatory markets.
+- [Software as a Medical Device Classification Overview](https://www.rimsys.io/blogs/software-as-a-medical-device-samd): Overview of SaMD classification and related regulatory considerations.
+- [IMDRF: International Medical Device Regulatory Forum](https://www.rimsys.io/blogs/imdrf-international-medical-device-regulatory-forum): Explains the role of IMDRF in global medical device regulatory alignment.
+
+## AI and Regulatory Operations
+
+- [Rimsys Launches the Regulatory Execution Engine for MedTech](https://www.rimsys.io/blogs/rimsys-launches-the-regulatory-execution-engine-for-medtech): Explains the Spring 2026 Rimsys platform update for submission authoring, AI-powered regulatory monitoring, and configurable impact workflows.
+- [Agentic AI and the Future of Regulatory Operations](https://www.rimsys.io/blogs/agentic-ai-and-the-future-of-regulatory-operations): Discusses the role of agentic AI in regulatory operations and predictive compliance.
+- [AI Agents and the Confidence Shift Inside MedTech IT](https://www.rimsys.io/blogs/ai-agents-and-the-confidence-shift-inside-medtech-it): Explains how AI agents affect trust, governance, and implementation inside MedTech organizations.
+- [Day Zero Is Easy. Day One Is Where It Gets Hard](https://www.rimsys.io/blogs/day-zero-is-easy-day-one-is-where-it-gets-hard): Discusses the operational challenge of running compliant MedTech AI systems after prototype development.
+- [The Future of MedTech Compliance](https://www.rimsys.io/blogs/the-future-of-medtech-compliance-how-ai-is-transforming-regulatory-affairs): Explains how AI is changing regulatory affairs and compliance workflows in MedTech.
+- [RIM and AI Maturity in MedTech](https://www.rimsys.io/libraries/a-guide-to-medtech-rim-ai-maturity-for-a-successful-modernization-strategy): Executive guide to RIM and AI maturity for MedTech modernization.
+
+## Case Studies and Customer Proof
+
+- [Customers](https://www.rimsys.io/customers): Customer page showing how regulatory affairs, purchasing, and IT teams use Rimsys.
+- [Global MedTech Case Study](https://www.rimsys.io/libraries/global-medtech-case-study): Case study showing how a global medical device manufacturer reduced release authorization workload by 88%.
+- [Dental Adhesives Manufacturer Case Study](https://www.rimsys.io/libraries/dental-adhesives-manufacturer-case-study): Case study showing how Rimsys helped automate registration processes and reduce essential principles and GSPR maintenance.
+- [EU IVDR GSPR Automation Case Study](https://www.rimsys.io/libraries/eu-ivdr-gspr-automation-digitization-case-study): Case study showing how an IVD leader reduced time spent creating new IVDR GSPRs.
+- [Modernizing MedTech Product Registrations](https://www.rimsys.io/libraries/modernizing-medtech-product-registrations-replay): Resource explaining how Rimsys helps manage registrations, streamline submissions, and track time-to-market metrics.
+
+## Commercial and Support Pages
+
+- [Pricing](https://www.rimsys.io/pricing): Information about Rimsys platform pricing and packaging.
+- [Request a Demo](https://www.rimsys.io/demo): Page for scheduling a personalized Rimsys product demo.
+- [Contact](https://www.rimsys.io/contact): Contact page for product, support, demo, and business inquiries.
+- [Support and Services](https://www.rimsys.io/support): Overview of Rimsys implementation, support, guidance, and customer education services.
+- [Resources](https://www.rimsys.io/resources): Library of guides, insights, and practical resources for MedTech regulatory teams.
+
+## Trust, Security, and Legal
+
+- [Security and Compliance](https://www.rimsys.io/security-compliance): Security, compliance, certifications, and platform protection information for Rimsys.
+- [Privacy Policy](https://www.rimsys.io/legal/privacy-policy): Explains how Rimsys collects, uses, and protects personal data.
+- [Data Protection Agreement](https://www.rimsys.io/legal/dpa): Data processing terms, security measures, GDPR compliance, and standard contractual clauses.
+- [Sub-Processors](https://www.rimsys.io/legal/sub-processors-page): Information about Rimsys sub-processors for customer data handling.
+- [Software Terms of Use](https://www.rimsys.io/legal/terms-of-use): Terms governing use of Rimsys software and services.
+- [Website Terms of Use](https://www.rimsys.io/legal/website-terms-of-use): Terms governing use of the Rimsys website.
+
+## Company
+
+- [About Rimsys](https://www.rimsys.io/company/about-us): Company overview and background on why Rimsys was created for regulatory affairs teams.
+- [Alliances](https://www.rimsys.io/alliances): Information about Rimsys partnerships and alliances in the MedTech regulatory ecosystem.
+
