@@ -7,6 +7,17 @@ description: 'Rimsys is a Regulatory Information Management (RIM) platform purpo
   enterprise APIs and an event-driven change-data-capture layer (Rimsys Connect) to integrate
   regulatory data with PLM, ERP, QMS, CRM, and BI tools, and provides direct EUDAMED/GUDID UDI
   transmission. Developer documentation is published at docs.rimsys.io.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: self-serve
