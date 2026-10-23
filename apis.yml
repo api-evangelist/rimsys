@@ -1,12 +1,10 @@
 aid: rimsys
 name: Rimsys
-description: 'Rimsys is a Regulatory Information Management (RIM) platform purpose-built for medical
-  device and MedTech manufacturers. It centralizes regulatory submissions, global product registrations,
-  Unique Device Identification (UDI) management, standards and GSPR maintenance, regulatory intelligence,
-  impact assessments, and market-access operations in a single system of record. Rimsys exposes
-  enterprise APIs and an event-driven change-data-capture layer (Rimsys Connect) to integrate
-  regulatory data with PLM, ERP, QMS, CRM, and BI tools, and provides direct EUDAMED/GUDID UDI
-  transmission. Developer documentation is published at docs.rimsys.io.'
+description: Rimsys is a Regulatory Information Management (RIM) platform purpose-built for medical device and MedTech manufacturers. It centralizes
+  regulatory submissions, global product registrations, Unique Device Identification (UDI) management, standards and GSPR maintenance, regulatory
+  intelligence, impact assessments, and market-access operations in a single system of record. Rimsys exposes enterprise APIs and an event-driven
+  change-data-capture layer (Rimsys Connect) to integrate regulatory data with PLM, ERP, QMS, CRM, and BI tools, and provides direct EUDAMED/GUDID
+  UDI transmission. Developer documentation is published at docs.rimsys.io.
 deliveryModel:
   model: saas
   open_source: false
@@ -64,10 +62,9 @@ tags_raw:
 - Life Sciences
 apis:
 - name: Rimsys API
-  description: 'Enterprise API for the Rimsys Regulatory Information Management platform, used to
-    integrate regulatory submissions, product registrations, UDI data, standards, and regulatory
-    intelligence with PLM, ERP, QMS, CRM, and BI systems. Documentation is published on the Rimsys
-    developer portal (Theneo-hosted); requests are authenticated with a bearer access token.'
+  description: Enterprise API for the Rimsys Regulatory Information Management platform, used to integrate regulatory submissions, product registrations,
+    UDI data, standards, and regulatory intelligence with PLM, ERP, QMS, CRM, and BI systems. Documentation is published on the Rimsys developer
+    portal (Theneo-hosted); requests are authenticated with a bearer access token.
   humanURL: https://docs.rimsys.io/
   baseURL: https://api.rimsys.io/
   tags:
@@ -81,6 +78,7 @@ apis:
     url: https://docs.rimsys.io/
   - type: Authentication
     url: authentication/rimsys-authentication.yml
+  aid: rimsys:rimsys-api
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
@@ -131,8 +129,3 @@ common:
   url: conformance/rimsys-conformance.yml
 - type: DomainSecurity
   url: security/rimsys-domain-security.yml
-x-enrichment:
-  date: '2026-07-21'
-  status: enriched
-  artifacts_added: 7
-  pass: local-v1
